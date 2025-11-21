@@ -1,4 +1,4 @@
-# RAG Knowledge Platform
+# Multi-Agent RAG
 
 A production-ready, scalable RAG (Retrieval-Augmented Generation) knowledge platform with multi-agent orchestration capabilities.
 
